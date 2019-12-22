@@ -1,6 +1,10 @@
+The columns of the tidy data set are subdivided into:
+
+Experiment number ID
+
 Subject -  User number ID
 
-Activity - Type of Activity the user are performing: Walking, Walking Upstairs, Walking Downstairs, Sitting, Standing, Laying.
+Activity - Type of Activity the user are performing: Standing, Sitting, Laying, Walking.
 
 Features - Numerical variables related to the time and frequency average of the signals obtained by inertial sensors:
 - Features are normalized and bounded within [-1,1].
