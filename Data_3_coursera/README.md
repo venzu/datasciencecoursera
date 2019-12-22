@@ -8,7 +8,7 @@ aged between 19 and 48 years were collected when using the device. Each person p
 WALKING_DOWNSTAIRS, SITTING, STANDING, LAYING) wearing a smartphone on the waist, so as to be able to produce by the signals of the 
 gyroscope and accelerometer a set of data related to linear and angular accelerations of the 3 axes.
 The data set can be obtained from:
-https://d396qusza40orc.cloudfront.net/getdata%2Fprojectfiles%2FUCI%20HAR%20Dataset.zip
+https://d396qusza40orc.cloudfront.net/getdata%2Fprojectfiles%2FUCI%20HAR%20Dataset.zip.
 
 The steps followed to get a tidy set are:
 
@@ -22,3 +22,9 @@ The steps followed to get a tidy set are:
 
 - From the data set in step 4, creates a second, independent tidy data set with the 
   average of each variable for each activity and each subject.
+
+Files:
+
+run_analysis.R -  Script to model the study data and get a tidy set.
+tidy.csv - script run_analysis output.
+CodeBook.md - Describes the variables used in the final tidy set.
