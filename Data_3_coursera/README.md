@@ -9,6 +9,7 @@ WALKING_DOWNSTAIRS, SITTING, STANDING, LAYING) wearing a smartphone on the waist
 gyroscope and accelerometer a set of data related to linear and angular accelerations of the 3 axes.
 The data set can be obtained from:
 https://d396qusza40orc.cloudfront.net/getdata%2Fprojectfiles%2FUCI%20HAR%20Dataset.zip
+
 The steps followed to get a tidy set are:
 
 - Merges the training and the test sets to create one data set.
