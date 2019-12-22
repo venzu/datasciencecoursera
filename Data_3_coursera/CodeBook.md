@@ -4,7 +4,7 @@ Experiment number ID
 
 Subject -  User number ID
 
-Activity - Type of Activity the user are performing: Standing, Sitting, Laying, Walking.
+Activity - Type of Activity the user are performing: Standing, Sitting, Laying, Walking, Walking upstairs, Walking Downstairs.
 
 Features - Numerical variables related to the time and frequency average of the signals obtained by inertial sensors:
 - Features are normalized and bounded within [-1,1].
